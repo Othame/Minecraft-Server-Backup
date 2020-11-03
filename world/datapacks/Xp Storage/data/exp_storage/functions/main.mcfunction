@@ -1,0 +1,4 @@
+#
+execute as @e[type=armor_stand,tag=exp_storage] at @s if entity @a[distance=..16] run function exp_storage:armor_stand_loop
+execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:gold_block",Count:1b},OnGround:1b}] at @s if block ~ ~ ~ cauldron as @e[type=minecraft:item,nbt={Item:{id:"minecraft:glowstone_dust",Count:5b},OnGround:1b},distance=..1] as @e[type=minecraft:item,nbt={Item:{id:"minecraft:hopper",Count:1b},OnGround:1b},distance=..1] as @e[type=minecraft:item,nbt={Item:{id:"minecraft:light_weighted_pressure_plate",Count:1b},OnGround:1b},distance=..1] run function exp_storage:give_item
+execute as @e[type=minecraft:item,nbt={Item:{id:"minecraft:gold_nugget",Count:1b,tag:{exp_storage:1b}},OnGround:1b}] at @s if block ~ ~ ~ #exp_storage:air run function exp_storage:summon

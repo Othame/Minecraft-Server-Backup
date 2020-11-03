@@ -1,0 +1,49 @@
+[12:01:38] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[12:01:39] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:01:39] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:01:40] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:01:40] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[12:01:40] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[12:01:40] [main/INFO]: Reloading ResourceManager: Default, Xp Storage
+[12:01:42] [Worker-Main-2/INFO]: Loaded 7 recipes
+[12:01:43] [Worker-Main-2/INFO]: Loaded 927 advancements
+[12:01:46] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[12:01:46] [Server thread/INFO]: Loading properties
+[12:01:46] [Server thread/INFO]: Default game type: SURVIVAL
+[12:01:46] [Server thread/INFO]: Generating keypair
+[12:01:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:01:47] [Server thread/INFO]: Using epoll channel type
+[12:01:47] [Server thread/INFO]: Preparing level "world"
+[12:01:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:01:50] [Server thread/INFO]: Preparing spawn area: 0%
+[12:01:50] [Server thread/INFO]: Preparing spawn area: 0%
+[12:01:50] [Server thread/INFO]: Preparing spawn area: 0%
+[12:01:50] [Server thread/INFO]: Preparing spawn area: 0%
+[12:01:50] [Server thread/INFO]: Preparing spawn area: 0%
+[12:01:50] [Server thread/INFO]: Preparing spawn area: 0%
+[12:01:50] [Server thread/INFO]: Preparing spawn area: 10%
+[12:01:51] [Server thread/INFO]: Preparing spawn area: 47%
+[12:01:52] [Server thread/INFO]: Time elapsed: 4322 ms
+[12:01:52] [Server thread/INFO]: Done (4.526s)! For help, type "help"
+[12:02:51] [User Authenticator #1/INFO]: UUID of player sbsb233 is 48c8408f-9baf-44f2-a8a0-602130bafd22
+[12:02:51] [Server thread/INFO]: sbsb233[/218.109.201.184:27072] logged in with entity id 159 at (-343.7271698577164, 63.5, 716.7039195236357)
+[12:02:52] [Server thread/INFO]: sbsb233 joined the game
+[12:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4180ms or 83 ticks behind
+[12:03:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9209ms or 184 ticks behind
+[12:03:33] [Server thread/INFO]: sbsb233 lost connection: Disconnected
+[12:03:33] [Server thread/INFO]: sbsb233 left the game
+[12:07:03] [Server thread/INFO]: Reloaded the whitelist
+[12:07:08] [Server thread/INFO]: There are no whitelisted players
+[12:07:16] [Server thread/INFO]: Added sbsb233 to the whitelist
+[12:07:23] [Server thread/INFO]: Added Till_Ed to the whitelist
+[12:07:36] [Server thread/INFO]: There are 2 whitelisted players: sbsb233, Till_Ed
+[12:08:38] [Server thread/INFO]: Made list a server operator
+[12:09:59] [Server thread/INFO]: Made list no longer a server operator
+[12:11:38] [Server thread/INFO]: The difficulty has been set to Hard
+[12:12:08] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:12:08] [Server thread/INFO]: whois sbsb233<--[HERE]
+[12:12:40] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[12:12:40] [Server thread/INFO]: whois [sbsb233]<--[HERE]
+[12:54:22] [User Authenticator #2/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
+[12:54:22] [Server thread/INFO]: Till_Ed[/58.101.39.156:1203] logged in with entity id 500 at (-381.6871082484521, 53.36437932417021, 790.7078779068237)
+[12:54:22] [Server thread/INFO]: Till_Ed joined the game
