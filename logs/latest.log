@@ -1,7 +1,386 @@
-[20:57:03] [User Authenticator #4/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
-[20:57:03] [Server thread/INFO]: Till_Ed[/58.101.39.156:2012] logged in with entity id 77541 at (-375.6443703629062, 81.0, 724.1635685670432)
-[20:57:03] [Server thread/INFO]: Till_Ed joined the game
-[21:16:35] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
-[21:17:02] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
-[21:24:05] [Server thread/INFO]: Till_Ed lost connection: Disconnected
-[21:24:05] [Server thread/INFO]: Till_Ed left the game
+[08:57:15] [User Authenticator #5/INFO]: UUID of player sbsb233 is 48c8408f-9baf-44f2-a8a0-602130bafd22
+[08:57:15] [Server thread/INFO]: sbsb233[/218.109.203.179:56634] logged in with entity id 81519 at (-90.37411977616918, 71.0, 381.50213860298027)
+[08:57:15] [Server thread/INFO]: sbsb233 joined the game
+[08:59:36] [Server thread/INFO]: sbsb233 fell from a high place
+[09:24:31] [Server thread/INFO]: sbsb233 was slain by Spider
+[10:07:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3280ms or 65 ticks behind
+[10:09:02] [Server thread/INFO]: sbsb233 lost connection: Disconnected
+[10:09:02] [Server thread/INFO]: sbsb233 left the game
+[10:22:43] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[10:22:43] [Server thread/INFO]: whois Till_Ed<--[HERE]
+[10:23:08] [User Authenticator #6/INFO]: UUID of player sbsb233 is 48c8408f-9baf-44f2-a8a0-602130bafd22
+[10:23:09] [Server thread/INFO]: sbsb233[/218.109.203.179:56656] logged in with entity id 98234 at (-204.51146324869245, 5.0, 241.84317181507288)
+[10:23:09] [Server thread/INFO]: sbsb233 joined the game
+[10:23:42] [Server thread/INFO]: sbsb233 lost connection: Disconnected
+[10:23:42] [Server thread/INFO]: sbsb233 left the game
+[10:51:58] [User Authenticator #7/INFO]: UUID of player sbsb233 is 48c8408f-9baf-44f2-a8a0-602130bafd22
+[10:51:58] [Server thread/INFO]: sbsb233[/218.109.203.179:56673] logged in with entity id 98407 at (-204.51146324869245, 5.0, 241.84317181507288)
+[10:51:58] [Server thread/INFO]: sbsb233 joined the game
+[10:53:31] [Server thread/INFO]: sbsb233 has made the advancement [Hidden in the Depths]
+[10:53:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-169, y=13, z=230} fx{x=-169, y=13, z=229}
+[10:53:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-169, y=13, z=230} fx{x=-169, y=13, z=229}
+[10:53:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-169, y=13, z=230} fx{x=-169, y=13, z=229}
+[10:55:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-169, y=14, z=347} fx{x=-169, y=13, z=346}
+[10:55:14] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-169, y=14, z=347} fx{x=-169, y=13, z=346}
+[10:57:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2124ms or 42 ticks behind
+[11:00:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-384, y=13, z=404} fx{x=-384, y=13, z=403}
+[11:00:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-384, y=13, z=404} fx{x=-384, y=13, z=403}
+[11:00:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-384, y=13, z=404} fx{x=-384, y=13, z=403}
+[11:01:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-416, y=14, z=385} fx{x=-424, y=13, z=385}
+[11:01:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-416, y=14, z=385} fx{x=-424, y=13, z=385}
+[11:01:16] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-416, y=14, z=385} fx{x=-424, y=13, z=385}
+[11:01:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-503, y=14, z=385} fx{x=-502, y=13, z=385}
+[11:01:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-503, y=14, z=385} fx{x=-502, y=13, z=385}
+[11:03:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-633, y=14, z=378} fx{x=-633, y=13, z=379}
+[11:03:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-633, y=14, z=378} fx{x=-633, y=13, z=379}
+[11:03:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-633, y=14, z=378} fx{x=-633, y=13, z=379}
+[11:03:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-633, y=14, z=378} fx{x=-633, y=13, z=379}
+[11:03:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-633, y=14, z=274} fx{x=-633, y=13, z=275}
+[11:03:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-633, y=14, z=274} fx{x=-633, y=13, z=275}
+[11:04:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-633, y=14, z=267} fx{x=-633, y=13, z=268}
+[11:04:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-633, y=14, z=267} fx{x=-633, y=13, z=268}
+[11:05:17] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=244} fx{x=-483, y=15, z=243}
+[11:05:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=244} fx{x=-483, y=15, z=243}
+[11:05:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=244} fx{x=-483, y=15, z=243}
+[11:05:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=244} fx{x=-483, y=15, z=243}
+[11:06:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=363} fx{x=-483, y=13, z=362}
+[11:06:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=363} fx{x=-483, y=13, z=362}
+[11:06:43] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=363} fx{x=-483, y=13, z=362}
+[11:06:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=366} fx{x=-483, y=13, z=365}
+[11:06:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=366} fx{x=-483, y=13, z=365}
+[11:06:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=366} fx{x=-483, y=13, z=365}
+[11:06:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-483, y=14, z=366} fx{x=-483, y=13, z=365}
+[11:07:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-531, y=13, z=387} fx{x=-530, y=13, z=387}
+[11:09:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-665, y=14, z=302} fx{x=-665, y=13, z=303}
+[11:09:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-665, y=14, z=302} fx{x=-665, y=13, z=303}
+[11:12:42] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-646, y=14, z=121} fx{x=-652, y=14, z=254}
+[11:15:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-654, y=14, z=300} fx{x=-654, y=13, z=299}
+[11:15:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-654, y=14, z=300} fx{x=-654, y=13, z=299}
+[11:15:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-654, y=14, z=300} fx{x=-654, y=13, z=299}
+[11:16:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-654, y=14, z=410} fx{x=-654, y=13, z=409}
+[11:16:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-654, y=14, z=410} fx{x=-654, y=13, z=409}
+[11:16:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-654, y=14, z=410} fx{x=-654, y=13, z=409}
+[11:18:26] [Server thread/INFO]: [sbsb233: Set own game mode to Spectator Mode]
+[11:19:10] [Server thread/INFO]: [sbsb233: Set own game mode to Survival Mode]
+[11:19:31] [Server thread/INFO]: sbsb233 has completed the challenge [Hot Tourist Destinations]
+[11:24:26] [Server thread/INFO]: sbsb233 has made the advancement [Who is Cutting Onions?]
+[11:30:11] [Server thread/INFO]: [sbsb233: Teleported sbsb233 to 34.5, 43.0, 80.5]
+[11:30:11] [Server thread/WARN]: sbsb233 moved too quickly! 721.3923721696218,0.0,-470.7464278755524
+[11:31:51] [Server thread/INFO]: sbsb233 was slain by Piglin
+[11:38:22] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[11:38:22] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[11:40:35] [Server thread/INFO]: sbsb233 fell out of the world
+[11:54:57] [Server thread/INFO]: sbsb233 lost connection: Disconnected
+[11:54:57] [Server thread/INFO]: sbsb233 left the game
+[12:29:53] [User Authenticator #8/INFO]: UUID of player sbsb233 is 48c8408f-9baf-44f2-a8a0-602130bafd22
+[12:29:54] [Server thread/INFO]: sbsb233[/218.109.203.179:56613] logged in with entity id 116850 at (-382.08802247683974, 81.0, 733.0624746147224)
+[12:29:54] [Server thread/INFO]: sbsb233 joined the game
+[12:38:20] [Server thread/INFO]: [sbsb233: Gave 1 [Diamond Sword] to sbsb233]
+[12:48:59] [Server thread/INFO]: sbsb233 was slain by Enderman
+[12:53:33] [Server thread/INFO]: sbsb233 lost connection: Disconnected
+[12:53:33] [Server thread/INFO]: sbsb233 left the game
+[14:48:58] [User Authenticator #9/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
+[14:48:59] [Server thread/INFO]: Till_Ed[/58.101.39.156:3008] logged in with entity id 127066 at (-344.7267049644043, 55.0, 747.2611816257988)
+[14:48:59] [Server thread/INFO]: Till_Ed joined the game
+[14:52:04] [Server thread/INFO]: [Till_Ed: Set own game mode to Creative Mode]
+[14:52:14] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[14:54:00] [Server thread/INFO]: [Till_Ed: Gave 1000 experience points to Till_Ed]
+[14:55:50] [Server thread/INFO]: [Till_Ed: Gave 1000 experience points to Till_Ed]
+[14:56:08] [Server thread/INFO]: [Till_Ed: Gave 1000 experience points to Till_Ed]
+[14:59:11] [Server thread/INFO]: [Till_Ed: Set own game mode to Creative Mode]
+[15:00:38] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[15:01:01] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
+[15:01:35] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[15:03:06] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
+[15:03:21] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[15:03:39] [Server thread/INFO]: Till_Ed has made the advancement [War Pigs]
+[15:06:39] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
+[15:06:52] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[15:08:55] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
+[15:09:58] [Server thread/INFO]: Till_Ed lost connection: Disconnected
+[15:09:58] [Server thread/INFO]: Till_Ed left the game
+[15:12:11] [User Authenticator #10/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
+[15:12:11] [Server thread/INFO]: Till_Ed[/58.101.39.156:1120] logged in with entity id 129809 at (-126.71538397821249, 76.18417831424853, -142.97020128481353)
+[15:12:11] [Server thread/INFO]: Till_Ed joined the game
+[15:13:09] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[15:22:56] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
+[15:23:42] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[15:30:50] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
+[15:32:24] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[15:44:13] [Server thread/INFO]: Till_Ed lost connection: Disconnected
+[15:44:13] [Server thread/INFO]: Till_Ed left the game
+[15:45:59] [User Authenticator #11/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
+[15:45:59] [Server thread/INFO]: Till_Ed[/58.101.39.156:1676] logged in with entity id 132603 at (-110.24481666667688, 38.0, -278.76713252559574)
+[15:45:59] [Server thread/INFO]: Till_Ed joined the game
+[15:47:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2257ms or 45 ticks behind
+[15:50:34] [Server thread/INFO]: Till_Ed lost connection: Disconnected
+[15:50:34] [Server thread/INFO]: Till_Ed left the game
+[18:42:10] [User Authenticator #12/INFO]: UUID of player sbsb233 is 48c8408f-9baf-44f2-a8a0-602130bafd22
+[18:42:10] [Server thread/INFO]: sbsb233[/218.109.203.179:56754] logged in with entity id 133345 at (39.23663708481928, 58.0, -233.99966222691836)
+[18:42:10] [Server thread/INFO]: sbsb233 joined the game
+[18:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=107, y=82, z=195} fx{x=108, y=80, z=195}
+[18:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=107, y=82, z=195} fx{x=108, y=80, z=195}
+[18:57:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=107, y=82, z=195} fx{x=108, y=80, z=195}
+[18:57:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=109, y=79, z=196} fx{x=109, y=78, z=195}
+[18:57:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=110, y=77, z=196} fx{x=109, y=77, z=196}
+[18:57:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=110, y=77, z=196} fx{x=109, y=77, z=196}
+[18:57:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=110, y=77, z=196} fx{x=109, y=77, z=196}
+[18:57:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=77, z=196} fx{x=112, y=75, z=197}
+[18:57:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=77, z=196} fx{x=112, y=75, z=197}
+[18:57:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=77, z=196} fx{x=112, y=75, z=197}
+[18:57:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=77, z=196} fx{x=112, y=75, z=197}
+[18:57:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=77, z=196} fx{x=112, y=75, z=197}
+[18:57:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=77, z=196} fx{x=112, y=75, z=197}
+[18:57:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=77, z=196} fx{x=112, y=75, z=197}
+[18:57:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=77, z=196} fx{x=112, y=75, z=197}
+[18:57:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=111, y=77, z=196} fx{x=112, y=75, z=197}
+[18:58:56] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=151, y=48, z=242} fx{x=151, y=46, z=243}
+[18:58:56] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=151, y=48, z=242} fx{x=151, y=46, z=243}
+[18:58:56] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=151, y=48, z=242} fx{x=151, y=46, z=243}
+[18:58:56] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=151, y=48, z=242} fx{x=151, y=46, z=243}
+[19:02:26] [Server thread/INFO]: sbsb233 has made the advancement [Those Were the Days]
+[19:03:10] [Server thread/INFO]: sbsb233 was slain by Piglin Brute
+[19:04:59] [Server thread/INFO]: [sbsb233: Teleported sbsb233 to 339.5, 34.0, 517.5]
+[19:04:59] [Server thread/WARN]: sbsb233 moved too quickly! 374.6293371903555,-35.0,438.1196646786117
+[19:04:59] [Server thread/WARN]: sbsb233 moved too quickly! 374.6293371903555,-35.0,438.1196646786117
+[19:05:44] [Server thread/INFO]: sbsb233 was slain by Piglin Brute
+[19:06:27] [Server thread/INFO]: [sbsb233: Teleported sbsb233 to 349.5, 67.0, 493.5]
+[19:06:27] [Server thread/WARN]: sbsb233 moved too quickly! 384.80000001192093,-2.0,412.6606932683422
+[19:06:27] [Server thread/WARN]: sbsb233 moved too quickly! 384.80000001192093,-2.0,412.6606932683422
+[19:06:34] [Server thread/INFO]: sbsb233 was slain by Piglin Brute
+[19:06:49] [Server thread/INFO]: [sbsb233: Teleported sbsb233 to 349.5, 67.0, 493.5]
+[19:06:49] [Server thread/WARN]: sbsb233 moved too quickly! 384.68919867862394,-2.0,411.5262217595879
+[19:07:21] [Server thread/INFO]: sbsb233 didn't want to live in the same world as Zombified Piglin
+[19:07:21] [Server thread/INFO]: [sbsb233: Killed sbsb233]
+[19:07:38] [Server thread/INFO]: [sbsb233: Teleported sbsb233 to 349.5, 67.0, 493.5]
+[19:07:38] [Server thread/WARN]: sbsb233 moved too quickly! 385.3832386739138,-3.0,408.19336088200635
+[19:08:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@5da94d47[id=<null>,name=Playnanguazi,properties={},legacy=false] (/125.120.215.214:58403) lost connection: Disconnected
+[19:08:07] [Server thread/INFO]: sbsb233 has made the advancement [War Pigs]
+[19:08:16] [Server thread/INFO]: sbsb233 was slain by Zombified Piglin
+[19:08:33] [Server thread/INFO]: [sbsb233: Teleported sbsb233 to 349.5, 67.0, 493.5]
+[19:08:33] [Server thread/WARN]: sbsb233 moved too quickly! 384.5845382019232,-2.0,411.4048382116713
+[19:08:33] [Server thread/WARN]: sbsb233 moved too quickly! 384.5845382019232,-2.0,411.4048382116713
+[19:12:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@6ea0e680[id=<null>,name=Playnanguazi,properties={},legacy=false] (/125.120.215.214:58441) lost connection: Disconnected
+[19:13:58] [User Authenticator #13/INFO]: UUID of player Playnanguazi is f6db7a51-4244-4ec0-9a02-e6c155ed18e7
+[19:13:58] [Server thread/INFO]: Playnanguazi[/125.120.215.214:58460] logged in with entity id 141562 at (2.5, 79.0, -2.5)
+[19:13:58] [Server thread/INFO]: Playnanguazi joined the game
+[19:14:40] [Server thread/INFO]: [sbsb233: Teleported sbsb233 to Playnanguazi]
+[19:14:53] [Server thread/INFO]: <sbsb233> emmm
+[19:14:58] [Server thread/INFO]: <Playnanguazi> hey
+[19:15:11] [Server thread/INFO]: <sbsb233> 要不我先回家然后你tp我？
+[19:15:21] [Server thread/INFO]: <Playnanguazi> 好
+[19:15:21] [Server thread/INFO]: [sbsb233: Made Playnanguazi a server operator]
+[19:15:28] [Server thread/INFO]: sbsb233 fell out of the world
+[19:15:28] [Server thread/INFO]: [sbsb233: Killed sbsb233]
+[19:15:29] [Server thread/WARN]: sbsb233 moved too quickly! -322.79828243116924,-12.0,667.8380626119891
+[19:15:37] [Server thread/INFO]: [Playnanguazi: Teleported Playnanguazi to sbsb233]
+[19:16:43] [Server thread/INFO]: <Playnanguazi> 我现在该干些什么
+[19:16:47] [Server thread/INFO]: <sbsb233> 要不你先逛会儿 我还在打猪灵堡垒
+[19:17:05] [Server thread/INFO]: <Playnanguazi> 哦，我先去发育一会儿
+[19:17:11] [Server thread/INFO]: <sbsb233> ok
+[19:18:02] [Server thread/INFO]: [sbsb233: Teleported sbsb233 to 349.5, 67.0, 493.5]
+[19:18:02] [Server thread/WARN]: sbsb233 moved too quickly! 390.3607557125232,-2.0,410.7996677380761
+[19:18:02] [Server thread/WARN]: sbsb233 moved too quickly! 390.3607557125232,-2.0,410.7996677380761
+[19:18:02] [Server thread/WARN]: sbsb233 moved too quickly! 390.3607557125232,-2.0,410.7996677380761
+[19:18:12] [Server thread/INFO]: <Playnanguazi> 哦，什么键看坐标啊
+[19:18:18] [Server thread/INFO]: <sbsb233> f3
+[19:19:15] [Server thread/INFO]: Playnanguazi was blown up by Creeper
+[19:20:28] [Server thread/INFO]: <sbsb233> 好像三楼附魔那边有个箱子里有钻套 要不你先拿上？
+[19:20:28] [Server thread/INFO]: <Playnanguazi> 待会儿，能给我发一下家的坐标吗
+[19:21:03] [Server thread/INFO]: <sbsb233> -326 66 630
+[19:21:11] [Server thread/INFO]: <Playnanguazi> 谢谢
+[19:22:00] [Server thread/INFO]: Playnanguazi has made the advancement [Stone Age]
+[19:22:21] [Server thread/INFO]: Playnanguazi has made the advancement [Getting an Upgrade]
+[19:23:30] [Server thread/INFO]: [Playnanguazi: Teleported Playnanguazi to -325.5, 66.0, 630.5]
+[19:23:30] [Server thread/WARN]: Playnanguazi moved too quickly! -321.90421970696354,-3.0,635.2475321502494
+[19:24:40] [Server thread/INFO]: Playnanguazi has made the advancement [Cover Me With Diamonds]
+[19:27:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2066ms or 41 ticks behind
+[19:28:04] [Server thread/INFO]: Playnanguazi has made the advancement [Acquire Hardware]
+[19:28:11] [Server thread/INFO]: Playnanguazi has made the advancement [Isn't It Iron Pick]
+[19:31:21] [Server thread/INFO]: sbsb233 tried to swim in lava
+[19:31:36] [Server thread/INFO]: <Playnanguazi> en?
+[19:32:04] [Server thread/INFO]: <sbsb233> 淦 鞘翅掉岩浆里了
+[19:32:17] [Server thread/INFO]: <sbsb233> 算了 反正打完了
+[19:32:33] [Server thread/INFO]: <Playnanguazi> 正在发育
+[19:33:07] [Server thread/INFO]: <Playnanguazi> 你会浇筑地狱门吗
+[19:33:23] [Server thread/INFO]: <sbsb233> 家里有黑曜石 直接放就行
+[19:33:44] [Server thread/INFO]: <Playnanguazi> 好
+[19:33:57] [Server thread/INFO]: <Playnanguazi> 但其实我想学
+[19:34:50] [Server thread/INFO]: <sbsb233> 好像就是找个墙在最上面放一排水然后下面黑曜石的地方放岩浆就行
+[19:35:45] [Server thread/INFO]: <Playnanguazi> 沙漠中间这块高塔是干啥的呀
+[19:36:04] [Server thread/INFO]: <sbsb233> 村庄那个吗
+[19:36:21] [Server thread/INFO]: <Playnanguazi> 不是
+[19:36:29] [Server thread/INFO]: <sbsb233> ？
+[19:36:34] [Server thread/INFO]: [sbsb233: Teleported sbsb233 to Playnanguazi]
+[19:36:34] [Server thread/WARN]: sbsb233 moved too quickly! 361.12250711709333,95.125,-318.2137735022566
+[19:36:51] [Server thread/INFO]: <sbsb233> 这个是溺尸塔
+[19:36:59] [Server thread/INFO]: <Playnanguazi> o
+[19:37:16] [Server thread/INFO]: <sbsb233> 不过这个平台废了 真正的平台在上面
+[19:37:31] [Server thread/INFO]: Playnanguazi has made the advancement [Not Today, Thank You]
+[19:37:36] [Server thread/INFO]: Playnanguazi has made the advancement [Monster Hunter]
+[19:38:46] [Server thread/INFO]: Playnanguazi was shot by Skeleton
+[19:38:56] [Server thread/INFO]: [Playnanguazi: Teleported Playnanguazi to sbsb233]
+[19:39:35] [Server thread/INFO]: Playnanguazi was blown up by Creeper
+[19:39:50] [Server thread/INFO]: [Playnanguazi: Teleported Playnanguazi to sbsb233]
+[19:40:14] [Server thread/INFO]: <sbsb233> this way
+[19:42:14] [Server thread/INFO]: Playnanguazi was slain by Zombie
+[19:42:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[19:44:29] [Server thread/INFO]: Playnanguazi has made the advancement [Suit Up]
+[19:47:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
+[19:49:04] [Server thread/INFO]: <Playnanguazi> 下届合金怎么获得啊
+[19:49:27] [Server thread/INFO]: <sbsb233> 地狱Y15鱼骨 或者打猪灵堡垒吧
+[19:50:11] [Server thread/INFO]: <sbsb233> 我刚搞了半天也就搞了三块 太jr难了
+[19:52:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2328ms or 46 ticks behind
+[19:52:24] [Server thread/INFO]: com.mojang.authlib.GameProfile@6c7474f[id=<null>,name=Till_Ed,properties={},legacy=false] (/58.101.39.156:1296) lost connection: Timed out
+[19:53:09] [User Authenticator #14/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
+[19:53:10] [Server thread/INFO]: Till_Ed[/58.101.39.156:2913] logged in with entity id 154136 at (-75.36554749029395, 43.0, -321.86943844954294)
+[19:53:10] [Server thread/INFO]: Till_Ed joined the game
+[19:53:50] [Server thread/INFO]: [Till_Ed: Teleported Till_Ed to sbsb233]
+[19:54:12] [Server thread/INFO]: [Till_Ed: Gave 1 [sbsb233's Head] to Till_Ed]
+[19:54:38] [Server thread/INFO]: [Server] 我怎么卡死了
+[19:55:22] [Server thread/INFO]: [Till_Ed: Gave 1 [minota_aqua's Head] to Till_Ed]
+[19:55:32] [Server thread/INFO]: [Till_Ed: Set own game mode to Creative Mode]
+[19:55:41] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[19:57:19] [Server thread/INFO]: Till_Ed was slain by sbsb233 using [aqua的宝藏]
+[19:57:23] [Server thread/WARN]: sbsb233 moved too quickly! -1.2175099135497476,10.529501409642826,2.5662349407908778
+[19:57:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[19:58:58] [Server thread/INFO]: <Playnanguazi> aaaa,I want diamonds
+[20:00:03] [Server thread/INFO]: <Till_Ed> 这里有钻石的装备
+[20:00:15] [Server thread/INFO]: <Playnanguazi> emm，我是想自己挖到
+[20:04:22] [Server thread/INFO]: Playnanguazi has made the advancement [Hot Stuff]
+[20:05:33] [Server thread/INFO]: [Till_Ed: Teleported Till_Ed to sbsb233]
+[20:11:05] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
+[20:12:55] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[20:14:04] [Server thread/INFO]: <Till_Ed> 我找到那个农民了
+[20:14:14] [Server thread/INFO]: <sbsb233> 啊这
+[20:14:51] [Server thread/INFO]: Till_Ed lost connection: Disconnected
+[20:14:51] [Server thread/INFO]: Till_Ed left the game
+[20:17:00] [Server thread/INFO]: [Playnanguazi: Teleported Playnanguazi to sbsb233]
+[20:17:00] [Server thread/WARN]: Playnanguazi moved too quickly! -273.16729669523704,-4.0,640.8316531540033
+[20:17:22] [Server thread/INFO]: <Playnanguazi> 你在干嘛
+[20:17:27] [Server thread/INFO]: <sbsb233> 鱼骨
+[20:17:43] [Server thread/INFO]: <Playnanguazi> 鱼骨是啥啊
+[20:19:00] [Server thread/INFO]: <sbsb233> c
+[20:19:30] [Server thread/INFO]: <sbsb233> 鱼骨就是鱼骨挖矿法
+[20:19:38] [Server thread/INFO]: <Playnanguazi> o
+[20:20:16] [Server thread/INFO]: [sbsb233: Set own game mode to Spectator Mode]
+[20:20:42] [Server thread/INFO]: [sbsb233: Set own game mode to Survival Mode]
+[20:22:01] [User Authenticator #15/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
+[20:22:01] [Server thread/INFO]: Till_Ed[/58.101.39.156:2685] logged in with entity id 163655 at (-464.7155088222445, 62.93005909059475, 692.8421208913273)
+[20:22:01] [Server thread/INFO]: Till_Ed joined the game
+[20:22:25] [Server thread/WARN]: Playnanguazi moved too quickly! 8.242740131403266,-1.670908383932293,-5.983210096294897
+[20:22:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20:22:59] [Server thread/INFO]: Playnanguazi was shot by Skeleton
+[20:23:13] [Server thread/INFO]: [Playnanguazi: Teleported Playnanguazi to sbsb233]
+[20:23:13] [Server thread/WARN]: Playnanguazi moved too quickly! -426.8345722258491,-61.0,908.4000127055781
+[20:24:10] [Server thread/INFO]: <sbsb233> 啊 还是不要横着挖比较好
+[20:24:30] [Server thread/INFO]: [Till_Ed: Set own game mode to Creative Mode]
+[20:24:46] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[20:25:07] [Server thread/INFO]: Playnanguazi lost connection: Disconnected
+[20:25:07] [Server thread/INFO]: Playnanguazi left the game
+[20:26:24] [Server thread/INFO]: <Till_Ed> sui bian la
+[20:29:11] [Server thread/INFO]: Till_Ed has reached the goal [Zombie Doctor]
+[20:29:46] [Server thread/INFO]: [sbsb233: Set own game mode to Spectator Mode]
+[20:29:56] [User Authenticator #16/INFO]: UUID of player Playnanguazi is f6db7a51-4244-4ec0-9a02-e6c155ed18e7
+[20:29:56] [Server thread/INFO]: Playnanguazi[/125.120.215.214:59318] logged in with entity id 166532 at (-428.62914496405415, 9.0, 919.892638958034)
+[20:29:56] [Server thread/INFO]: Playnanguazi joined the game
+[20:30:00] [Server thread/INFO]: [sbsb233: Set own game mode to Survival Mode]
+[20:30:22] [Server thread/INFO]: [Till_Ed: Gave 1 [minata_aqua's Head] to Till_Ed]
+[20:30:23] [Server thread/INFO]: [Playnanguazi: Teleported Playnanguazi to sbsb233]
+[20:30:36] [Server thread/INFO]: [Till_Ed: Gave 1 [minato_aqua's Head] to Till_Ed]
+[20:30:54] [Server thread/INFO]: [Till_Ed: Set own game mode to Creative Mode]
+[20:31:03] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
+[20:31:12] [Server thread/WARN]: sbsb233 moved wrongly!
+[20:32:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
+[20:32:47] [Server thread/INFO]: Playnanguazi was slain by Iron Golem
+[20:32:57] [Server thread/INFO]: [Till_Ed: Teleported Till_Ed to sbsb233]
+[20:33:01] [Server thread/INFO]: [Playnanguazi: Teleported Playnanguazi to 4.0, 81.33, -10.17]
+[20:33:08] [Server thread/INFO]: [Playnanguazi: Teleported Playnanguazi to Till_Ed]
+[20:33:42] [Server thread/INFO]: <sbsb233> ????? 你这头哪来的
+[20:33:49] [Server thread/INFO]: <Till_Ed> zhi ling
+[20:34:07] [Server thread/INFO]: <Playnanguazi> 鞘翅怎么做啊
+[20:34:41] [Server thread/INFO]: sbsb233 went off with a bang due to a firework fired from [斩怨k] by Till_Ed
+[20:37:56] [Server thread/INFO]: [sbsb233: Teleported sbsb233 to Till_Ed]
+[20:39:17] [Server thread/INFO]: sbsb233 was impaled by Till_Ed
+[20:39:20] [Server thread/INFO]: <sbsb233> c
+[20:39:41] [Server thread/INFO]: <sbsb233> 你他妈怎么打不死的
+[20:40:12] [Server thread/INFO]: <Till_Ed> 你穿着鞘翅
+[20:40:44] [Server thread/INFO]: sbsb233 lost connection: Disconnected
+[20:40:44] [Server thread/INFO]: sbsb233 left the game
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:00] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:43:01] [Server thread/ERROR]: Can't find any space for item in the inventory
+[20:45:35] [User Authenticator #17/INFO]: UUID of player sbsb233 is 48c8408f-9baf-44f2-a8a0-602130bafd22
+[20:45:35] [Server thread/INFO]: sbsb233[/218.109.203.179:56726] logged in with entity id 171385 at (-337.9704250697582, 63.0, 698.036991963112)
+[20:45:35] [Server thread/INFO]: sbsb233 joined the game
+[20:45:45] [Server thread/INFO]: sbsb233 lost connection: Disconnected
+[20:45:45] [Server thread/INFO]: sbsb233 left the game
+[20:51:21] [Server thread/INFO]: [Till_Ed: Gave 2 [Torch] to Till_Ed]
+[20:51:31] [Server thread/INFO]: [Playnanguazi: Teleported Playnanguazi to Till_Ed]
+[20:53:09] [Server thread/INFO]: [Till_Ed: Gave 1 [Till_Ed's Head] to Till_Ed]
+[20:53:41] [Server thread/INFO]: [Till_Ed: Gave 1 [Playnanguazi's Head] to Till_Ed]
+[20:54:06] [Server thread/INFO]: Playnanguazi has made the advancement [We Need to Go Deeper]
+[20:54:27] [Server thread/INFO]: <Playnanguazi> -39 69 81
+[20:55:23] [Server thread/INFO]: Till_Ed lost connection: Disconnected
+[20:55:23] [Server thread/INFO]: Till_Ed left the game
+[20:55:40] [Server thread/INFO]: Playnanguazi was slain by Hoglin
+[20:58:17] [Server thread/INFO]: Playnanguazi lost connection: Disconnected
+[20:58:17] [Server thread/INFO]: Playnanguazi left the game
