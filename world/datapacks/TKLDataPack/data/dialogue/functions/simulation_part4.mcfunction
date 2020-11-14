@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Once you agreed to doing them, we simply wiped your memory so that you won't remember the chambers when actually trying to solve them, thus creating 100% authentic test results. If you have any concerns about these practices, we completely respect that however keep in mind that you did in fact agree to this!"}]
+schedule function dialogue:simulation_part5 19s

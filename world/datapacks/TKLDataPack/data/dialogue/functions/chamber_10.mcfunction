@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Welcome to chamber 10! You're doing a great job and the Kitatcho Laboratories couldn't thank you enough for your hard work and dedication, as you are providing us with amazing scientific results. Keep up the good work!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.12 voice @s ^ ^ ^

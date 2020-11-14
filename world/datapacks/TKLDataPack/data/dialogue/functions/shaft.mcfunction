@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"The Kitatcho Laboratories is built approximately 5,000 meters below the surface of the Earth. We use these empty shafts as sort of a central hub, which connects our test chambers. From here, you'll be working your way from the bottom of this cavern, all the way to the top!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.03 voice @s ^ ^ ^

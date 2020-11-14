@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Alright, let's see if you can solve this chamber faster than the test subject that came before you! He was a monkey by the way. We named him \"Bananas\". Now, the lab boys tell me I'm not allowed to talk about Bananas on account of the uh... \"Bananas Incident\", but I pay the bills here so I can talk about Bananas all day... Oh uh, right... Yes, good luck!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.04 voice @s ^ ^ ^

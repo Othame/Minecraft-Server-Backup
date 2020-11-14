@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"You may be wondering if this is legal, and if we're even allowed to do this to you in the first place, and that's okay as we respect any concerns or beliefs you may have!"}]
+schedule function dialogue:cryogenics_part5 9s

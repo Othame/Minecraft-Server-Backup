@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"You see, you were chosen out of a plethora of volunteers to be our very third ever test subject to try out these tests, and after you won, we simply brought you here, showed you our puzzle solving chambers so you had an idea of what to expect."}]
+schedule function dialogue:simulation_part4 14s

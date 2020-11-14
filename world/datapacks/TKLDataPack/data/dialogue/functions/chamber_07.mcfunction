@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"I would like to take this time to announce that the Kitatcho Laboratories has a brand new education annex built specifically for teaching and training children between the ages of 7-13 on how to become a proper test subject at our facility! If you have any children, please feel free to enroll them in this program at the conclusion of this testing track!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.09 voice @s ^ ^ ^

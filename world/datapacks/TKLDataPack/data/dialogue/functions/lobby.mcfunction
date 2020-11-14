@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Hey, not bad! You seem to have a good sense of exploring your surroundings, which is a vital skill to have when it comes to solving our upcoming tests. Today, you'll be solving chambers in Test Track 02, which should be down the hall and to the right. Once there, we'll open the test track door for you and the testing will begin!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.01 voice @s ^ ^ ^

@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Sadly you were a few minutes slower than Bananas was at solving that test. However, don't let that discourage you. We here at the Kitatcho Laboratories like to think of failure as a learning mechanism to help improve your success... Even if it was to a monkey... named \"Bananas\". But uh, seriously do try and pick up the pace."}]
+execute as @a positioned as @s run playsound minecraft:dialogue.05 voice @s ^ ^ ^

@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Now if this chamber ends up making you sweat, have chills, diarrhea and/or have persistent headaches, please track down one of our test associates and let them know. That's not a part of the test, and instead may be a side effect of our Kitatcho Laboratories High-Tech Performance-Enhancing Miracle Pills. You did consent to taking these but probably don't remember."}]
+schedule function dialogue:chamber_12_part3 21s

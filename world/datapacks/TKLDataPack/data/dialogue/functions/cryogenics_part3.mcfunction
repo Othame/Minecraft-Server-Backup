@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"So we've now gone ahead and set you up in one of our state of the art Kitatcho Laboratories high-tech cryogenic refrigeration units!"}]
+schedule function dialogue:cryogenics_part4 8s

@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"This next test introduces our state of the art, Kitatcho Laboratories high-tech jump pads! When activated, the pad will infect you with a substance that grants you the ability to jump higher than normal. No need to worry, as these pads have been tested and are confirmed to be at least 83.27% safe! Good luck!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.10 voice @s ^ ^ ^

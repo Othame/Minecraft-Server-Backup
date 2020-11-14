@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Now, to get you started, we've gone ahead and hidden 4 levers in our very own Kitatcho Laboratories high-tech simulation chamber. Find the 4 levers and place them by the exit door to open it! I'll speak with you again once you've done this. Good luck!"}]

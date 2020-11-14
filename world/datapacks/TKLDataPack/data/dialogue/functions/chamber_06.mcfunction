@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"You know, I wasn't too thrilled with the idea of a maze chamber in this facility, as I feel like this is just easy pickings when it comes to chamber ideas. However, this test will also introduce a new testing apparatus for you to use, which you will need for the remainder of the testing track. I'm sure you'll find it eventually. Good luck!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.08 voice @s ^ ^ ^

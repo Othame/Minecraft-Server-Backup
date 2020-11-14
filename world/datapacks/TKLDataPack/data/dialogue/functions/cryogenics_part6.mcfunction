@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Thanks again TS-03 for being a glorious contribution to the scientific field, and we look forward to testing with you in the future once again!"}]
+schedule function dialogue:cryogenics_part7 10s

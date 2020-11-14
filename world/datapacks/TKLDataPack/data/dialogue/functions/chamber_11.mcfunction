@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"This next test introduces teleportation. Our teleportation buttons will teleport 99.9% of all of the atoms in your body, and displace them somewhere else in the chamber. If you find that you've lost more atoms during the teleportation than we've stated, please feel free to write a complaint at the end of the testing track. Test subject feedback is always highly appreciated!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.13 voice @s ^ ^ ^

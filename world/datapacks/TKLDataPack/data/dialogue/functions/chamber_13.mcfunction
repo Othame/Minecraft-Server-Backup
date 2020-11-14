@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Sadly Bananas didn't survive that last chamber, and he didn't die to the lava surprisingly. Instead he managed to slip on one of his own banana peels and smashed his skull on the chamber floor. The Kitatcho Laboratories would take this time to mourn Bananas, and ask you to refrain from creating the same scenario."}]
+execute as @a positioned as @s run playsound minecraft:dialogue.15 voice @s ^ ^ ^

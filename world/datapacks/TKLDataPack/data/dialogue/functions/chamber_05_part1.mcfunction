@@ -1,0 +1,3 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"This next test involves a new substance that the lab boys have created that's been engineered to stick you and other items to its surface. No need to worry however, as the materials it's made out of have been proven to be 100% completely safe and organic."}]
+execute as @a positioned as @s run playsound minecraft:dialogue.07 voice @s ^ ^ ^
+schedule function dialogue:chamber_05_part2 17s

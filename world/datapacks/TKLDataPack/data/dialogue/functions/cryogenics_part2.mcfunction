@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"You see, what's a better reward for solving our test chambers, than to be put to sleep and be reawoken in the future to test even more newly built ones? Nothing in my opinion, it's a win-win situation!"}]
+schedule function dialogue:cryogenics_part3 14s

@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"This next chamber introduces our Kitatcho Laboratories High-Tech Repulsion Pads. They launch the user into the air like a trampoline! Have fun!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.06 voice @s ^ ^ ^

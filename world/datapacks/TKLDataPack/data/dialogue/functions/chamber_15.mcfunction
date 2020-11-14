@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Welcome to the final test chamber! Our chamber designers got a bit carried away with this one, so it may take you quite a while to finish, as it has a little bit of everything you've experienced so far in our testing track. Once this chamber is done, you'll then head to our testers reward program, where we have an exciting reward waiting specifically for you! Good luck!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.17 voice @s ^ ^ ^

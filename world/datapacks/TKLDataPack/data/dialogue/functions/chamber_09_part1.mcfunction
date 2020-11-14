@@ -1,0 +1,3 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"While safety has and always will be the highest priority when it comes to the testing tracks, please note that to enhance your motivation to solve the test correctly, we sometimes add not-so-safe elements to the chambers that may result in serious injuries or even sometimes death."}]
+execute as @a positioned as @s run playsound minecraft:dialogue.11 voice @s ^ ^ ^
+schedule function dialogue:chamber_09_part2 19s

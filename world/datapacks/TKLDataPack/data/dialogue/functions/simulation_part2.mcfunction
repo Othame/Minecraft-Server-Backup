@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Now you may be a bit confused, seeing as how you just woke up with no idea as to what's going on, but no need to panic, as we've just wiped your mind of the past 48 hours of your life. Simple stuff, really."}]
+schedule function dialogue:simulation_part3 13s

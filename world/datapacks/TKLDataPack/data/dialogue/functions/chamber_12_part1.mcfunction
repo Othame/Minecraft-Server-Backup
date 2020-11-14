@@ -1,0 +1,3 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"If this next chamber makes you feel nervous, scared, or irrationally minded, please note that that's normal and that this is just another instance of us allowing you to have a higher sense of motivation to solve the test correctly. "}]
+execute as @a positioned as @s run playsound minecraft:dialogue.14 voice @s ^ ^ ^
+schedule function dialogue:chamber_12_part2 12s

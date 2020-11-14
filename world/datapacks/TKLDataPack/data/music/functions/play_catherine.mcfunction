@@ -1,0 +1,1 @@
+execute as @a positioned as @s run playsound minecraft:music.catherine hostile @s ^ ^ ^

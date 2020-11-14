@@ -1,0 +1,3 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Hello there young test subject, and welcome to the infamous Kitatcho Laboratories! I'm Jake Kitatcho, founder and CEO of this fine establishment, and I'll be your host today as I walk you through our many test chambers created with the express purpose of testing cognitive function and problem solving skills!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.00 voice @s ^ ^ ^
+schedule function dialogue:simulation_part2 23s

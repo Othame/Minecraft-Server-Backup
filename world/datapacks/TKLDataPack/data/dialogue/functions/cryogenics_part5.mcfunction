@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"So feel free to get comfy and relax in this cryogenic tank, which believe me looks a lot more comfy than the park bench you were sleeping on when we found you, and we'll be more than happy to discuss things once you wake up again!"}]
+schedule function dialogue:cryogenics_part6 14s

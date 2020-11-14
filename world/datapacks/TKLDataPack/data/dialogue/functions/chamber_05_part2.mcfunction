@@ -1,0 +1,1 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Don't believe me? It's got plenty of healthy substances in it such as... let's see... *Rustles through paper* ... oh uh, you know what, it's not important. Just get on with the test."}]

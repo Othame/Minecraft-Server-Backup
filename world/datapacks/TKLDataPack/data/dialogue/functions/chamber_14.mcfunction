@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"This next test was created in an effort to explore how a test subject reacts when one of their vital senses has been altered significantly. This effect plate will make you partially blind for the duration of the chamber, and if the blindness persists after the chamber is completed, please remain calm and call out a test associate for help, as that's not supposed to happen."}]
+execute as @a positioned as @s run playsound minecraft:dialogue.16 voice @s ^ ^ ^

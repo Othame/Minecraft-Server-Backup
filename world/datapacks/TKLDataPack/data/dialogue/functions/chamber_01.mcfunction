@@ -1,0 +1,2 @@
+tellraw @a ["",{"text":"<"},{"text":"Jake Kitatcho","color":"dark_red"},{"text":"> "},{"text":"Alright, welcome to the first test! This chamber introduces the basic mechanics you'll encounter throughout this testing track, so it's a good way for you to get an idea of what to expect going forward. Good luck!"}]
+execute as @a positioned as @s run playsound minecraft:dialogue.02 voice @s ^ ^ ^
