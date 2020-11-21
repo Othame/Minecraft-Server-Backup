@@ -1,116 +1,231 @@
-[21:29:32] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[21:29:33] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:29:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:29:33] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:29:33] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[21:29:33] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[21:29:33] [main/INFO]: Reloading ResourceManager: Default, Xp Storage
-[21:29:36] [Worker-Main-2/INFO]: Loaded 7 recipes
-[21:29:37] [Worker-Main-2/INFO]: Loaded 927 advancements
-[21:29:41] [Server thread/INFO]: Starting minecraft server version 1.16.3
-[21:29:41] [Server thread/INFO]: Loading properties
-[21:29:41] [Server thread/INFO]: Default game type: SURVIVAL
-[21:29:41] [Server thread/INFO]: Generating keypair
-[21:29:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:29:42] [Server thread/INFO]: Using epoll channel type
-[21:29:42] [Server thread/INFO]: Preparing level "world"
-[21:29:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:29:46] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:46] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:46] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:46] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:46] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:46] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:46] [Server thread/INFO]: Preparing spawn area: 0%
-[21:29:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[21:29:47] [Worker-Main-2/INFO]: Preparing spawn area: 11%
-[21:29:47] [Server thread/INFO]: Time elapsed: 4790 ms
-[21:29:47] [Server thread/INFO]: Done (5.003s)! For help, type "help"
-[21:32:08] [User Authenticator #1/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
-[21:32:09] [Server thread/INFO]: Till_Ed[/58.101.39.156:1875] logged in with entity id 21 at (1357.8290173342286, 92.48811520167283, -262.69999998807907)
-[21:32:09] [Server thread/INFO]: Till_Ed joined the game
-[21:32:21] [User Authenticator #2/INFO]: UUID of player sbsb233 is 48c8408f-9baf-44f2-a8a0-602130bafd22
-[21:32:22] [Server thread/INFO]: sbsb233[/218.109.201.170:7093] logged in with entity id 198 at (-383.9857043659253, 55.0, 709.6557848650115)
-[21:32:22] [Server thread/INFO]: sbsb233 joined the game
-[21:32:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[21:32:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8989ms or 179 ticks behind
-[21:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4648ms or 92 ticks behind
-[21:34:22] [User Authenticator #3/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
-[21:34:22] [Server thread/INFO]: Till_Ed lost connection: You logged in from another location
-[21:34:22] [Server thread/INFO]: Till_Ed left the game
-[21:34:22] [Server thread/WARN]: handleDisconnection() called twice
-[21:34:22] [Server thread/INFO]: Till_Ed[/58.101.39.156:1326] logged in with entity id 1240 at (1357.8290173342286, 92.48811520167283, -262.69999998807907)
-[21:34:22] [Server thread/INFO]: Till_Ed joined the game
-[21:34:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[21:35:08] [Server thread/WARN]: sbsb233 moved too quickly! -2.569926529173273,0.0,9.988303051401033
-[21:35:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3537ms or 70 ticks behind
-[21:37:07] [Server thread/INFO]: Till_Ed lost connection: Disconnected
-[21:37:07] [Server thread/INFO]: Till_Ed left the game
-[21:37:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
-[21:37:27] [User Authenticator #4/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
-[21:37:27] [Server thread/INFO]: Till_Ed[/58.101.39.156:1053] logged in with entity id 2916 at (1357.8290173342286, 92.48811520167283, -262.69999998807907)
-[21:37:27] [Server thread/INFO]: Till_Ed joined the game
-[21:39:01] [Server thread/INFO]: [sbsb233: Set own game mode to Creative Mode]
-[21:39:24] [Server thread/INFO]: [sbsb233: Set own game mode to Survival Mode]
-[21:40:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4728ms or 94 ticks behind
-[21:42:49] [Server thread/INFO]: Till_Ed lost connection: Disconnected
-[21:42:49] [Server thread/INFO]: Till_Ed left the game
-[21:43:18] [Server thread/INFO]: sbsb233 lost connection: Disconnected
-[21:43:18] [Server thread/INFO]: sbsb233 left the game
-[21:45:45] [User Authenticator #5/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
-[21:45:45] [Server thread/INFO]: Till_Ed[/58.101.39.156:1662] logged in with entity id 6134 at (1357.8290173342286, 92.48811520167283, -262.69999998807907)
-[21:45:45] [Server thread/INFO]: Till_Ed joined the game
-[21:47:40] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
-[21:49:11] [Server thread/INFO]: [Till_Ed: Set own game mode to Creative Mode]
-[21:50:17] [Server thread/WARN]: Till_Ed moved too quickly! 1.9669619097392115,0.0,9.835097612278055
-[21:54:22] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
-[22:00:30] [Server thread/INFO]: [Till_Ed: Gave 128 [Arrow] to Till_Ed]
-[22:00:48] [Server thread/INFO]: Villager bfg['Librarian'/765, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-129.33, y=63.56, z=311.23] died, message: 'Librarian was slain by Ravager'
-[22:01:22] [Server thread/INFO]: Villager bfg['Librarian'/758, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-120.85, y=63.56, z=313.30] died, message: 'Librarian was slain by Ravager'
-[22:01:40] [Server thread/INFO]: Villager bfg['Librarian'/760, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-120.98, y=63.56, z=314.02] died, message: 'Librarian was slain by Ravager'
-[22:04:59] [Server thread/INFO]: [Till_Ed: Set own game mode to Creative Mode]
-[22:05:07] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
-[22:07:11] [Server thread/INFO]: Villager bfg['Cleric'/759, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-121.50, y=63.56, z=313.84] died, message: 'Cleric was slain by Vex'
-[22:10:56] [Server thread/INFO]: Villager bfg['Librarian'/747, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-129.37, y=63.56, z=319.64] died, message: 'Librarian was slain by Vex'
-[22:11:01] [Server thread/INFO]: Villager bfg['Librarian'/746, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-127.75, y=63.56, z=319.70] died, message: 'Librarian was slain by Vex'
-[22:11:05] [Server thread/INFO]: Villager bfg['Nitwit'/764, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-129.70, y=63.56, z=311.70] died, message: 'Nitwit was slain by Vex'
-[22:11:34] [Server thread/INFO]: Villager bfg['Farmer'/745, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-128.98, y=63.56, z=319.34] died, message: 'Farmer was slain by Vex'
-[22:11:36] [Server thread/INFO]: Villager bfg['Librarian'/749, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-127.58, y=63.56, z=320.30] died, message: 'Librarian was slain by Vex'
-[22:11:38] [Server thread/INFO]: Villager bfg['Librarian'/748, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-128.35, y=63.56, z=319.53] died, message: 'Librarian was slain by Vex'
-[22:11:45] [Server thread/INFO]: Villager bfg['Nitwit'/769, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-128.20, y=64.00, z=310.27] died, message: 'Nitwit was slain by Vex'
-[22:11:53] [Server thread/INFO]: Villager bfg['Farmer'/768, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-124.11, y=63.56, z=311.66] died, message: 'Farmer was slain by Vex'
-[22:11:58] [Server thread/INFO]: Villager bfg['Weaponsmith'/762, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-124.71, y=63.56, z=311.50] died, message: 'Weaponsmith was slain by Vex'
-[22:12:09] [Server thread/INFO]: Villager bfg['Toolsmith'/763, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-123.57, y=63.56, z=311.18] died, message: 'Toolsmith was slain by Vex'
-[22:15:24] [Server thread/INFO]: [Till_Ed: Set own game mode to Creative Mode]
-[22:15:33] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
-[22:15:40] [User Authenticator #6/INFO]: UUID of player sbsb233 is 48c8408f-9baf-44f2-a8a0-602130bafd22
-[22:15:40] [Server thread/INFO]: sbsb233[/218.109.201.170:7031] logged in with entity id 19176 at (-342.46157143061316, 63.5, 706.0252480505355)
-[22:15:40] [Server thread/INFO]: sbsb233 joined the game
-[22:21:56] [Server thread/INFO]: <sbsb233> 我咋感觉苹果原来不长这样？
-[22:23:04] [Server thread/INFO]: <Till_Ed> 有个附魔金苹果
-[22:27:12] [Server thread/INFO]: <Till_Ed> zzzz
-[22:27:32] [Server thread/INFO]: <Till_Ed> 顺便好像村民死的差不多了。。。
-[22:28:36] [Server thread/INFO]: [Till_Ed: Gamerule mobGriefing is now set to: true]
-[22:34:12] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
-[22:34:21] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
-[22:34:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-95, y=68, z=334} fx{x=-96, y=69, z=334}
-[22:34:50] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
-[22:35:11] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
-[22:37:05] [Server thread/INFO]: [Till_Ed: Set own game mode to Spectator Mode]
-[22:37:09] [Server thread/INFO]: [Till_Ed: Teleported Till_Ed to sbsb233]
-[22:37:14] [Server thread/INFO]: [Till_Ed: Set own game mode to Survival Mode]
-[22:37:59] [Server thread/INFO]: Till_Ed has made the advancement [Country Lode, Take Me Home]
-[22:38:11] [Server thread/INFO]: sbsb233 has made the advancement [Country Lode, Take Me Home]
-[22:38:14] [Server thread/INFO]: Till_Ed lost connection: Disconnected
-[22:38:14] [Server thread/INFO]: Till_Ed left the game
-[22:45:49] [Server thread/INFO]: sbsb233 lost connection: Disconnected
-[22:45:49] [Server thread/INFO]: sbsb233 left the game
-[22:48:36] [User Authenticator #7/INFO]: UUID of player sbsb233 is 48c8408f-9baf-44f2-a8a0-602130bafd22
-[22:48:36] [Server thread/INFO]: sbsb233[/218.109.201.170:7031] logged in with entity id 35610 at (-383.1031271007873, 81.0, 732.9486379734652)
-[22:48:36] [Server thread/INFO]: sbsb233 joined the game
-[22:49:51] [Server thread/WARN]: sbsb233 moved wrongly!
-[22:54:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-303, y=68, z=647}
-[22:54:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-303, y=68, z=646} fx{x=-301, y=68, z=646}
-[22:54:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-303, y=68, z=646} fx{x=-301, y=68, z=646}
-[23:00:46] [Server thread/INFO]: sbsb233 lost connection: Disconnected
-[23:00:46] [Server thread/INFO]: sbsb233 left the game
+[00:00:42] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[00:09:23] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
+[00:12:34] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[00:20:42] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/41443, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-640.74, y=16.37, z=1318.65]
+[00:20:42] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/41444, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-640.43, y=19.31, z=1317.27]
+[00:20:42] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/41446, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-639.30, y=20.69, z=1322.64]
+[00:24:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/42068, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-657.52, y=10.27, z=1285.52]
+[00:24:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/42069, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-656.40, y=13.71, z=1281.53]
+[00:24:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42070, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-656.39, y=13.54, z=1285.31]
+[00:24:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Gravel'/42071, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-657.43, y=14.31, z=1287.29]
+[00:24:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42072, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-660.56, y=10.56, z=1283.71]
+[00:24:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Granite'/42073, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-661.73, y=12.45, z=1286.47]
+[00:24:17] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42074, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-660.54, y=12.29, z=1282.59]
+[00:24:38] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42151, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-641.72, y=14.42, z=1298.43]
+[00:24:38] [Server thread/WARN]: Fetching packet for removed entity bcs['Andesite'/42152, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-638.65, y=11.72, z=1298.67]
+[00:24:38] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/42153, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-640.35, y=12.35, z=1292.70]
+[00:24:38] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42154, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-638.31, y=11.33, z=1294.71]
+[00:24:38] [Server thread/WARN]: Fetching packet for removed entity bcs['Andesite'/42155, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-640.30, y=12.50, z=1297.69]
+[00:24:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42167, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-642.58, y=12.72, z=1292.74]
+[00:26:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42425, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-591.68, y=12.40, z=1297.39]
+[00:26:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/42426, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-592.55, y=10.30, z=1297.36]
+[00:27:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42622, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-589.63, y=15.30, z=1288.70]
+[00:27:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Iron Ore'/42623, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-590.75, y=13.37, z=1292.45]
+[00:27:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/42624, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-590.50, y=9.26, z=1291.45]
+[00:27:43] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42625, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-589.30, y=11.43, z=1291.25]
+[00:29:10] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42807, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-584.29, y=12.51, z=1284.62]
+[00:29:10] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42808, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-584.71, y=10.45, z=1286.47]
+[00:29:10] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42809, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-586.35, y=15.32, z=1285.67]
+[00:29:10] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42810, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-588.31, y=15.69, z=1287.72]
+[00:29:10] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/42811, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-585.54, y=12.74, z=1289.49]
+[00:30:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43023, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-584.70, y=13.64, z=1281.56]
+[00:30:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/43025, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-584.51, y=13.41, z=1275.70]
+[00:30:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43026, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.32, y=14.43, z=1279.72]
+[00:30:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43027, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-582.30, y=13.30, z=1281.71]
+[00:30:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43028, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-582.56, y=14.58, z=1280.25]
+[00:30:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43029, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-582.32, y=11.39, z=1275.39]
+[00:30:00] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43030, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-585.45, y=13.61, z=1278.49]
+[00:30:56] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43227, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.64, y=10.72, z=1265.65]
+[00:30:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43262, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.54, y=11.68, z=1259.34]
+[00:30:57] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43270, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.51, y=9.74, z=1266.29]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/43388, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.72, y=13.65, z=1255.57]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43389, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.53, y=15.74, z=1258.69]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43390, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-578.51, y=11.26, z=1254.35]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Iron Ore'/43391, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.48, y=13.37, z=1253.33]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43392, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.75, y=11.63, z=1255.36]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43393, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.44, y=14.56, z=1254.29]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Redstone Dust'/43394, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-578.25, y=13.44, z=1253.50]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43395, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.70, y=16.36, z=1257.69]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Redstone Dust'/43396, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.70, y=12.34, z=1254.66]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43397, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-575.38, y=13.64, z=1256.63]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43398, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.33, y=15.72, z=1256.72]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43399, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-578.28, y=13.60, z=1252.41]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/43400, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-582.51, y=13.44, z=1254.71]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43401, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-578.26, y=14.75, z=1252.57]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Redstone Dust'/43402, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.62, y=12.73, z=1253.72]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43403, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.26, y=15.67, z=1253.38]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43404, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.71, y=15.75, z=1255.25]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Iron Ore'/43405, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-582.73, y=13.63, z=1253.72]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43406, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.55, y=15.61, z=1253.28]
+[00:31:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43407, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.45, y=15.38, z=1253.73]
+[00:31:47] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43460, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-574.55, y=16.38, z=1259.43]
+[00:31:47] [Server thread/WARN]: Fetching packet for removed entity bcs['Redstone Dust'/43461, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-572.46, y=12.68, z=1258.44]
+[00:31:47] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43469, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.34, y=13.52, z=1251.53]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43726, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-578.72, y=11.27, z=1246.42]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/43727, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.33, y=13.49, z=1248.69]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Andesite'/43728, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.51, y=12.56, z=1248.52]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43729, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.46, y=14.27, z=1249.27]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43730, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.61, y=15.57, z=1244.47]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43731, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-578.63, y=15.45, z=1248.29]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43732, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-574.27, y=14.44, z=1244.36]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43733, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-573.59, y=13.73, z=1245.38]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43763, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-578.59, y=10.74, z=1245.71]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43764, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.60, y=10.66, z=1243.57]
+[00:33:26] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43765, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-573.45, y=16.58, z=1248.57]
+[00:33:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43801, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.68, y=13.29, z=1235.35]
+[00:33:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43802, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.42, y=13.37, z=1239.32]
+[00:33:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43803, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.26, y=15.69, z=1236.39]
+[00:33:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43804, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.41, y=13.51, z=1240.63]
+[00:33:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Andesite'/43805, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-582.70, y=14.54, z=1239.54]
+[00:33:27] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/43806, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.29, y=12.42, z=1238.43]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44360, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-578.73, y=15.65, z=1222.39]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44361, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.32, y=13.60, z=1221.29]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/44362, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-575.70, y=15.37, z=1222.52]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44363, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-575.69, y=13.67, z=1221.56]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/44364, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-579.66, y=14.63, z=1225.53]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Andesite'/44365, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-579.47, y=12.30, z=1223.66]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44366, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-578.53, y=11.34, z=1223.48]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Dirt'/44382, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.52, y=8.41, z=1231.31]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Andesite'/44384, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-579.62, y=12.49, z=1222.74]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44385, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-573.72, y=12.43, z=1221.68]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44386, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.67, y=10.46, z=1225.73]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44388, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.50, y=9.71, z=1224.74]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Iron Ore'/44389, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.37, y=10.69, z=1221.49]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44390, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-578.71, y=10.62, z=1225.62]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/44391, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.59, y=16.55, z=1222.55]
+[00:35:59] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44392, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-579.28, y=15.75, z=1225.66]
+[00:36:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44579, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-579.32, y=11.27, z=1216.44]
+[00:36:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/44580, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-579.50, y=8.68, z=1219.36]
+[00:36:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44581, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-579.67, y=15.30, z=1216.72]
+[00:36:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44582, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.47, y=12.66, z=1216.66]
+[00:36:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Andesite'/44583, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.70, y=10.66, z=1220.45]
+[00:36:46] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44585, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.65, y=15.46, z=1216.52]
+[00:36:57] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/44717, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-573.41, y=8.42, z=1218.64]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Redstone Dust'/44718, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-574.50, y=8.26, z=1217.27]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44719, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.29, y=12.73, z=1214.50]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44720, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-574.29, y=11.70, z=1215.28]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44721, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.45, y=15.63, z=1216.45]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Lapis Lazuli'/44722, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-575.41, y=16.32, z=1217.66]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44738, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.29, y=8.38, z=1213.31]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44741, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-576.64, y=7.36, z=1214.55]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Redstone Dust'/44742, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-574.44, y=7.53, z=1218.66]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44749, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-582.67, y=9.39, z=1218.42]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44805, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-583.51, y=7.58, z=1219.48]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Iron Ore'/44807, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-583.53, y=8.60, z=1218.35]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44808, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.26, y=4.29, z=1215.70]
+[00:37:39] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44809, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.26, y=8.26, z=1213.51]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/44838, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-570.65, y=9.50, z=1217.42]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/44853, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-584.70, y=10.56, z=1223.52]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44862, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-571.34, y=9.59, z=1220.37]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/44865, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-574.43, y=17.59, z=1221.74]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44866, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.55, y=16.36, z=1226.34]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44868, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-583.58, y=9.64, z=1219.46]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/44869, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-585.58, y=12.66, z=1218.31]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44870, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-585.35, y=11.62, z=1218.63]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44871, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-585.71, y=14.71, z=1219.62]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44879, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-570.43, y=11.58, z=1229.52]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Andesite'/44892, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-583.53, y=11.46, z=1227.57]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/44893, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-584.57, y=13.43, z=1224.46]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/44894, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-583.49, y=11.45, z=1228.44]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Redstone Dust'/44895, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-583.66, y=9.63, z=1225.27]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44902, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-583.46, y=14.46, z=1227.53]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Andesite'/44904, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-584.41, y=12.73, z=1227.33]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Redstone Dust'/44906, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-584.55, y=13.70, z=1226.29]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/44935, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-572.45, y=16.38, z=1222.63]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44936, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-568.46, y=14.36, z=1222.31]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44939, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-568.51, y=15.49, z=1223.40]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44948, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-567.50, y=12.53, z=1221.36]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44949, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-567.60, y=13.75, z=1222.31]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/44950, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-566.58, y=10.74, z=1220.27]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44951, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-568.49, y=12.37, z=1221.43]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Coal'/44960, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-586.33, y=12.64, z=1221.59]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44986, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-566.40, y=9.39, z=1226.38]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/44987, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-568.34, y=8.43, z=1226.30]
+[00:37:40] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/44988, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-566.70, y=8.67, z=1225.59]
+[00:38:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/45115, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.56, y=10.68, z=1207.34]
+[00:38:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/45116, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-584.36, y=11.71, z=1205.50]
+[00:38:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Andesite'/45117, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-583.63, y=15.67, z=1207.28]
+[00:38:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/45118, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-579.70, y=14.33, z=1209.46]
+[00:38:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/45119, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.48, y=16.53, z=1208.63]
+[00:38:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/45120, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-581.28, y=10.47, z=1206.49]
+[00:38:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Granite'/45126, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-577.55, y=11.25, z=1210.30]
+[00:38:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/45127, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-583.44, y=8.33, z=1208.75]
+[00:38:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/45128, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-582.32, y=10.29, z=1212.35]
+[00:38:19] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/45129, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-580.58, y=11.26, z=1212.34]
+[00:38:20] [Server thread/WARN]: Fetching packet for removed entity bcs['Diorite'/45160, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-586.43, y=11.35, z=1227.26]
+[00:38:20] [Server thread/WARN]: Fetching packet for removed entity bcs['Cobblestone'/45162, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=-586.34, y=12.38, z=1227.38]
+[00:38:43] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
+[00:40:52] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[00:42:33] [Server thread/INFO]: Playnanguazi has made the advancement [Ice Bucket Challenge]
+[00:45:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-114, y=15, z=140} fx{x=-113, y=14, z=140}
+[00:45:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-114, y=15, z=140} fx{x=-113, y=14, z=140}
+[00:45:41] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-114, y=15, z=140} fx{x=-113, y=14, z=140}
+[00:49:00] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-68, y=12, z=173} fx{x=-68, y=12, z=174}
+[00:49:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=-64, y=15, z=173} fx{x=-62, y=14, z=173}
+[00:53:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=3, y=18, z=161} fx{x=3, y=19, z=161}
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48266, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=4.49, y=19.31, z=152.36]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48267, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=3.59, y=20.68, z=148.55]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48268, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=2.52, y=16.36, z=151.43]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48269, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=4.45, y=19.25, z=147.46]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48270, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=6.73, y=17.34, z=153.40]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48271, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=7.62, y=18.58, z=151.31]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48272, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=0.64, y=19.60, z=150.37]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48273, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=0.30, y=17.75, z=149.49]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48274, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=0.68, y=18.58, z=152.59]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48275, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=0.65, y=17.68, z=148.72]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48276, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=5.43, y=16.50, z=150.27]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48277, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=5.46, y=16.31, z=152.45]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48278, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=1.35, y=18.48, z=147.73]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48279, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=6.27, y=19.47, z=151.53]
+[00:54:08] [Server thread/WARN]: Fetching packet for removed entity bcs['Netherrack'/48280, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=3.26, y=16.41, z=151.44]
+[00:57:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=2, y=11, z=156} fx{x=2, y=10, z=158}
+[00:57:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=2, y=11, z=156} fx{x=2, y=10, z=158}
+[00:58:13] [Server thread/INFO]: Playnanguazi tried to swim in lava
+[01:17:22] [Server thread/INFO]: Playnanguazi fell from a high place
+[01:26:42] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[01:27:03] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[01:27:41] [Server thread/INFO]: Playnanguazi fell out of the world
+[01:27:41] [Server thread/INFO]: [Playnanguazi: Killed Playnanguazi]
+[01:28:18] [Server thread/INFO]: Playnanguazi has made the advancement [Enchanter]
+[01:30:17] [Server thread/INFO]: Playnanguazi has completed the challenge [Cover Me in Debris]
+[01:30:39] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[01:31:05] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[01:38:09] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[01:39:26] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[01:44:00] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[01:44:58] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[01:51:31] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[01:51:49] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[01:53:08] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[01:53:21] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[01:58:32] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[01:59:30] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[02:02:22] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[02:04:00] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[02:08:32] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[02:09:07] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[02:15:03] [Server thread/INFO]: Playnanguazi has made the advancement [Take Aim]
+[02:17:39] [Server thread/INFO]: <Playnanguazi> kill
+[02:17:41] [Server thread/INFO]: Playnanguazi fell out of the world
+[02:17:41] [Server thread/INFO]: [Playnanguazi: Killed Playnanguazi]
+[02:17:53] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[02:20:02] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
+[02:20:39] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[02:21:17] [Server thread/WARN]: Playnanguazi moved too quickly! -9.132458797487288,0.0,5.9301071006345865
+[02:22:35] [Server thread/WARN]: Playnanguazi moved too quickly! -9.590162405123465,0.0,3.910815311664919
+[02:26:34] [Server thread/WARN]: Playnanguazi moved too quickly! -6.645387053970353,1.1948737108009198,7.8870081165559895
+[02:26:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
+[02:27:19] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
+[02:27:28] [Server thread/INFO]: Playnanguazi has made the advancement [Eye Spy]
+[02:27:35] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
+[02:27:47] [Server thread/INFO]: Playnanguazi has made the advancement [The End?]
+[02:27:47] [Server thread/WARN]: Playnanguazi moved too quickly! 3462.9068697652133,23.364606391818796,-3939.523700969965
+[02:27:47] [Server thread/WARN]: Playnanguazi moved too quickly! 3462.9068697652133,23.364606391818796,-3939.523700969965
+[02:27:47] [Server thread/WARN]: Playnanguazi moved too quickly! 3462.9068697652133,23.364606391818796,-3939.523700969965
+[02:27:47] [Server thread/WARN]: Entity aah['Playnanguazi'/36602, l='ServerLevel[Othame的温馨小窝 (世界1)]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[02:27:47] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[02:27:47] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[02:27:58] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
+[02:29:04] [Server thread/INFO]: Playnanguazi has made the advancement [Remote Getaway]
+[02:29:27] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
