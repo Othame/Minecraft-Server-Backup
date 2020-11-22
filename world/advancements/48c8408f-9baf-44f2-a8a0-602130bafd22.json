@@ -433,9 +433,10 @@
   },
   "terracotta_wrench:recipes/tools/wrench": {
     "criteria": {
+      "has_gold": "2020-11-22 09:55:09 +0800",
       "has_iron": "2020-11-21 13:48:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
@@ -904,9 +905,10 @@
   },
   "redstone_wrench:recipes/tools/wrench": {
     "criteria": {
+      "has_gold": "2020-11-22 09:55:09 +0800",
       "has_iron": "2020-11-21 13:48:29 +0800"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
@@ -1208,6 +1210,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2020-11-22 14:09:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather": {
     "criteria": {
       "has_rabbit_hide": "2020-11-03 14:00:27 +0800"
@@ -1397,6 +1405,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-10-02 23:06:28 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2020-11-22 13:24:49 +0800"
     },
     "done": true
   },
@@ -2252,6 +2266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-22 10:19:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2020-10-17 19:02:27 +0800"
@@ -2306,6 +2326,12 @@
     },
     "done": true
   },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2020-11-22 14:09:07 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/packed_ice": {
     "criteria": {
       "has_ice": "2020-11-02 19:53:25 +0800"
@@ -2345,6 +2371,18 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-10-03 19:11:11 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-11-22 13:23:41 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2020-11-22 10:33:27 +0800"
     },
     "done": true
   },
@@ -2697,6 +2735,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2020-11-22 13:55:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2020-10-03 19:11:11 +0800"
@@ -2820,6 +2864,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2020-11-07 10:08:43 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-11-22 10:33:27 +0800"
     },
     "done": true
   },
@@ -3219,6 +3269,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-22 10:19:00 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-22 10:19:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2020-10-24 21:04:13 +0800"
@@ -3312,6 +3374,12 @@
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-10-02 23:07:30 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2020-11-22 14:33:40 +0800"
     },
     "done": true
   },
@@ -3765,6 +3833,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2020-11-22 10:19:00 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2020-10-02 23:06:31 +0800"
@@ -3834,6 +3908,12 @@
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2020-10-08 10:39:04 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2020-11-22 10:19:00 +0800"
     },
     "done": true
   },

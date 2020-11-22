@@ -824,6 +824,7 @@
       "minecraft:spider": "2020-10-03 20:47:14 +0800",
       "minecraft:piglin_brute": "2020-11-07 15:07:22 +0800",
       "minecraft:creeper": "2020-10-03 14:37:49 +0800",
+      "minecraft:wither": "2020-11-22 13:55:09 +0800",
       "minecraft:evoker": "2020-10-03 19:16:33 +0800",
       "minecraft:phantom": "2020-10-06 15:20:57 +0800",
       "minecraft:zombified_piglin": "2020-10-06 17:31:29 +0800",
@@ -1399,6 +1400,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2020-10-03 20:01:02 +0800"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_black_flower": "2020-11-22 13:36:01 +0800"
     },
     "done": true
   },
@@ -2402,6 +2409,12 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2020-10-03 19:59:35 +0800"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2020-11-22 13:23:41 +0800"
     },
     "done": true
   },
