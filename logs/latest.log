@@ -1,36 +1,3 @@
-[20:35:13] [User Authenticator #15/INFO]: UUID of player Till_Ed is 69c7438b-a1a3-488b-9473-186039875c99
-[20:35:13] [Server thread/INFO]: Till_Ed[/58.101.39.156:1410] logged in with entity id 158866 at (-125.52837123663853, 88.0, 322.1711477013319)
-[20:35:14] [Server thread/INFO]: Till_Ed joined the game
-[20:36:19] [Server thread/INFO]: Till_Ed lost connection: Disconnected
-[20:36:19] [Server thread/INFO]: Till_Ed left the game
-[22:57:05] [User Authenticator #16/INFO]: UUID of player Playnanguazi is f6db7a51-4244-4ec0-9a02-e6c155ed18e7
-[22:57:06] [Server thread/INFO]: Playnanguazi[/115.199.248.165:58817] logged in with entity id 159091 at (-582.6987146426105, 63.0, 583.0101269851099)
-[22:57:06] [Server thread/INFO]: Playnanguazi joined the game
-[23:05:50] [Server thread/INFO]: Playnanguazi was slain by Zombie
-[23:12:56] [Server thread/INFO]: Playnanguazi fell out of the world
-[23:12:56] [Server thread/INFO]: [Playnanguazi: Killed Playnanguazi]
-[23:13:46] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
-[23:14:02] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
-[23:14:26] [Server thread/INFO]: [Playnanguazi: Set own game mode to Creative Mode]
-[23:14:42] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
-[23:16:38] [Server thread/WARN]: Playnanguazi moved too quickly! -6.295348288528032,-0.975575911786315,7.745853059760066
-[23:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2145ms or 42 ticks behind
-[23:22:08] [Server thread/INFO]: Playnanguazi was blown up by Creeper
-[23:22:28] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
-[23:22:53] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
-[23:23:51] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
-[23:24:22] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
-[23:26:08] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
-[23:26:31] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
-[23:29:24] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
-[23:29:40] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
-[23:31:20] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
-[23:32:50] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
-[23:33:56] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
-[23:34:23] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
-[23:34:56] [Server thread/INFO]: [Playnanguazi: Set own game mode to Spectator Mode]
-[23:35:16] [Server thread/INFO]: [Playnanguazi: Set own game mode to Survival Mode]
-[23:36:35] [Server thread/INFO]: Playnanguazi fell out of the world
-[23:36:35] [Server thread/INFO]: [Playnanguazi: Killed Playnanguazi]
-[23:41:21] [Server thread/INFO]: Playnanguazi lost connection: Disconnected
-[23:41:21] [Server thread/INFO]: Playnanguazi left the game
+[09:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
+[09:24:21] [Server Watchdog/FATAL]: A single server tick took 60.07 seconds (should be max 0.05)
+[09:24:36] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
