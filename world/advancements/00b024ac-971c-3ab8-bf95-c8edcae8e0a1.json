@@ -325,8 +325,8 @@
   },
   "terracotta_wrench:recipes/tools/wrench": {
     "criteria": {
-      "has_gold": "2020-12-05 10:41:32 +0800",
-      "has_iron": "2020-11-21 16:15:46 +0800"
+      "has_gold": "2020-12-06 11:23:33 +0800",
+      "has_iron": "2020-12-06 11:23:30 +0800"
     },
     "done": true
   },
@@ -681,6 +681,12 @@
       "minecraft:zombie_villager": "2020-11-14 20:15:35 +0800"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2020-12-06 11:30:04 +0800"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
@@ -1413,7 +1419,7 @@
   },
   "vanillatweaks:terracotta_wrench": {
     "criteria": {
-      "tick": "2020-11-21 16:14:55 +0800"
+      "tick": "2020-12-06 11:17:51 +0800"
     },
     "done": true
   },
