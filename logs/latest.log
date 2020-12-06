@@ -1,3 +1,58 @@
-[09:21:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2186ms or 43 ticks behind
-[09:24:21] [Server Watchdog/FATAL]: A single server tick took 60.07 seconds (should be max 0.05)
-[09:24:36] [Server Watchdog/FATAL]: Considering it to be crashed, server will forcibly shutdown.
+[10:59:25] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:59:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:59:25] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:59:25] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[10:59:25] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[10:59:25] [main/INFO]: Reloading ResourceManager: Default, bukkit, Xp Storage, armor statues v2.8.1.zip, cauldron concrete v2.0.3.zip, dragon drops v1.3.0.zip, fast leaf decay v2.0.3.zip, player head drops v1.1.0.zip, redstone rotation wrench v1.1.0.zip, terracotta rotation wrench v1.1.0.zip, villagers-infinite-stock.zip
+[10:59:29] [Worker-Main-2/INFO]: Loaded 7 recipes
+[10:59:29] [Worker-Main-2/WARN]: Found validation problem in {minecraft:entities/ender_dragon}.pools[1].entries[0]: Unknown loot table called minecraft:entities/reference/mmh/ender_dragon
+[10:59:29] [Worker-Main-2/INFO]: Loaded 940 advancements
+[10:59:33] [Server thread/INFO]: Starting minecraft server version 1.16.3
+[10:59:33] [Server thread/INFO]: Loading properties
+[10:59:33] [Server thread/INFO]: Default game type: SURVIVAL
+[10:59:33] [Server thread/INFO]: Generating keypair
+[10:59:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:59:34] [Server thread/INFO]: Using epoll channel type
+[10:59:34] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[10:59:34] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[10:59:34] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[10:59:34] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[10:59:34] [Server thread/INFO]: Preparing level "world"
+[10:59:35] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:59:39] [Server thread/INFO]: Preparing spawn area: 0%
+[10:59:39] [Server thread/INFO]: Preparing spawn area: 0%
+[10:59:39] [Server thread/INFO]: Preparing spawn area: 0%
+[10:59:39] [Server thread/INFO]: Preparing spawn area: 0%
+[10:59:39] [Server thread/INFO]: Preparing spawn area: 0%
+[10:59:39] [Server thread/INFO]: Preparing spawn area: 0%
+[10:59:39] [Server thread/INFO]: Preparing spawn area: 0%
+[10:59:39] [Server thread/INFO]: Preparing spawn area: 0%
+[10:59:39] [Server thread/INFO]: Preparing spawn area: 0%
+[10:59:39] [Server thread/INFO]: Preparing spawn area: 0%
+[10:59:40] [Server thread/INFO]: Preparing spawn area: 13%
+[10:59:40] [Server thread/INFO]: Preparing spawn area: 54%
+[10:59:41] [Server thread/INFO]: Time elapsed: 6900 ms
+[10:59:41] [Server thread/INFO]: Done (7.210s)! For help, type "help"
+[10:59:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[11:00:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8983ms or 179 ticks behind
+[11:00:56] [Server thread/INFO]: sbsb233[/218.109.201.160:36907] logged in with entity id 139 at (-311.9942647128766, 90.19263678213203, 697.244607711044)
+[11:00:56] [Server thread/INFO]: sbsb233 joined the game
+[11:00:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[11:01:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22191ms or 443 ticks behind
+[11:02:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16796ms or 335 ticks behind
+[11:02:20] [Server thread/INFO]: sbsb233 lost connection: Disconnected
+[11:02:20] [Server thread/INFO]: sbsb233 left the game
+[11:02:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2748ms or 54 ticks behind
+[11:02:26] [Server thread/INFO]: Stopping the server
+[11:02:26] [Server thread/INFO]: Stopping server
+[11:02:26] [Server thread/INFO]: Saving players
+[11:02:26] [Server thread/INFO]: Saving worlds
+[11:02:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:02:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:02:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:02:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
