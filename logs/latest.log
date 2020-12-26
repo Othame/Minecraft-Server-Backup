@@ -1,12 +1,6 @@
-[09:28:40] [Server thread/INFO]: sbsb233[/218.109.201.121:30788] logged in with entity id 284761 at (-413.85009834722405, 68.90200363377045, 704.6006236007385)
-[09:28:40] [Server thread/INFO]: sbsb233 joined the game
-[09:28:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
-[09:29:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7273ms or 145 ticks behind
-[09:29:27] [Server thread/INFO]: [sbsb233: Set own game mode to Survival Mode]
-[09:29:52] [Server thread/INFO]: [sbsb233: Set own game mode to Creative Mode]
-[09:30:57] [Server thread/WARN]: sbsb233 moved too quickly! -7.004040780343473,0.0,-7.365202375580338
-[09:31:32] [Server thread/INFO]: [sbsb233: Set own game mode to Survival Mode]
-[09:35:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[09:36:20] [Server thread/INFO]: sbsb233 was blown up by Creeper
-[09:36:25] [Server thread/INFO]: sbsb233 lost connection: Disconnected
-[09:36:25] [Server thread/INFO]: sbsb233 left the game
+[21:01:31] [Server thread/INFO]: Playnanguazi[/125.120.13.47:58591] logged in with entity id 327385 at (112.9466965433867, 48.0, 5.881148763786326)
+[21:01:31] [Server thread/INFO]: Playnanguazi joined the game
+[21:02:25] [Server thread/INFO]: Playnanguazi suffocated in a wall
+[21:02:36] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=62, z=472}
+[21:02:44] [Server thread/INFO]: Playnanguazi lost connection: Disconnected
+[21:02:44] [Server thread/INFO]: Playnanguazi left the game
