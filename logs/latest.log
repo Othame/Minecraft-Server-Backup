@@ -1,4 +1,68 @@
-[22:44:40] [Server thread/INFO]: Playnanguazi[/115.199.242.207:63322] logged in with entity id 5737 at (-102.22939703628438, 64.0, 497.2778305485818)
-[22:44:40] [Server thread/INFO]: Playnanguazi joined the game
-[22:46:04] [Server thread/INFO]: Playnanguazi lost connection: Disconnected
-[22:46:04] [Server thread/INFO]: Playnanguazi left the game
+[20:33:32] [Server thread/INFO]: Playnanguazi[/122.234.165.128:56599] logged in with entity id 37382 at (-77.25114702454873, 65.0, 683.5236802155644)
+[20:33:32] [Server thread/INFO]: Playnanguazi joined the game
+[20:33:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[20:35:50] [Server thread/INFO]: Playnanguazi has made the advancement [Monster Hunter]
+[20:36:57] [Server thread/INFO]: Playnanguazi was shot by Skeleton
+[20:37:03] [Server thread/INFO]: Playnanguazi has made the advancement [The End?]
+[20:37:03] [Server thread/WARN]: Playnanguazi moved too quickly! 287.6106569041499,-15.0,-473.28023128927794
+[20:37:03] [Server thread/WARN]: Entity aah['Playnanguazi'/37382, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[20:37:05] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[20:37:05] [Server thread/INFO]: Found that the dragon has been killed in this world already.
+[20:37:19] [Server thread/INFO]: Playnanguazi hit the ground too hard whilst trying to escape Enderman
+[20:37:52] [Server thread/INFO]: Playnanguazi was slain by Spider
+[20:38:10] [Server thread/WARN]: Playnanguazi moved too quickly! 288.7563223644038,-15.0,-473.55986131332867
+[20:38:10] [Server thread/WARN]: Entity aah['Playnanguazi'/37382, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[20:38:55] [Server thread/INFO]: Playnanguazi fell out of the world
+[20:38:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-194, y=63, z=482}
+[20:38:58] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-195, y=63, z=482}
+[20:38:59] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-195, y=63, z=482}
+[20:39:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-198, y=63, z=491}
+[20:39:52] [Server thread/INFO]: Playnanguazi was blown up by Creeper
+[20:40:03] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-188, y=64, z=474}
+[20:40:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-188, y=64, z=474}
+[20:40:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-188, y=64, z=474}
+[20:40:15] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-188, y=64, z=474}
+[20:40:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-188, y=64, z=474}
+[20:40:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-188, y=63, z=475}
+[20:40:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-188, y=64, z=474}
+[20:40:20] [Server thread/WARN]: Playnanguazi moved too quickly! 288.5567601120054,-15.0,-473.29022754668347
+[20:40:20] [Server thread/WARN]: Playnanguazi moved too quickly! 288.5567601120054,-15.0,-473.29022754668347
+[20:40:20] [Server thread/WARN]: Playnanguazi moved too quickly! 288.5567601120054,-15.0,-473.29022754668347
+[20:40:20] [Server thread/WARN]: Entity aah['Playnanguazi'/37382, l='ServerLevel[world]', x=100.50, y=49.00, z=0.50] left loaded chunk area
+[20:41:55] [Server thread/INFO]: Playnanguazi was slain by Enderman
+[20:42:39] [Server thread/INFO]: Playnanguazi hit the ground too hard
+[20:42:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:53] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:54] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:55] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:55] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:55] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:55] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:55] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:42:55] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-196, y=63, z=471}
+[20:43:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-200, y=64, z=464}
+[20:43:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-200, y=64, z=465}
+[20:43:07] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-202, y=64, z=463}
+[20:43:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-202, y=65, z=463}
+[20:43:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-202, y=64, z=463}
+[20:43:08] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-202, y=64, z=462}
+[20:43:09] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=0, y=0, z=0} fx{x=-202, y=64, z=462}
+[20:43:24] [Server thread/INFO]: Playnanguazi lost connection: Disconnected
+[20:43:24] [Server thread/INFO]: Playnanguazi left the game
+[20:43:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11010ms or 220 ticks behind
